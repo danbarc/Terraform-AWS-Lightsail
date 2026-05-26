@@ -1,0 +1,28 @@
+# Terraform
+*.tfstate
+*.tfstate.*
+terraform.tfstate*
+.terraform/
+.terraform.lock.hcl
+crash.log
+crash.*.json
+
+# Sensitive files
+terraform.tfvars
+user_data.sh
+*.tfvars
+*.pem
+*.key
+*.pub
+secrets.*
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

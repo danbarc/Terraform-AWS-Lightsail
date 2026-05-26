@@ -1,0 +1,7 @@
+# terraform.tfvars.example
+
+region           = "us-east-1"
+availability_zone = "us-east-1a"
+instance_name    = "thermtech-lightsail"
+domain           = "thermtech.com.br"
+environment      = "production"
