@@ -1,6 +1,6 @@
 # Thermtech Infrastructure - Terraform
 
-This repository contains the Infrastructure as Code (IaC) for Thermtech's websites using **AWS Lightsail**, **Route 53**, and **Amazon SES**.
+This repository contains the Infrastructure as Code (IaC) for Thermtech's Website and Intranet using **AWS Lightsail**, **Route 53**, and **Amazon SES**.
 
 ## Architecture
 
@@ -23,7 +23,7 @@ This repository contains the Infrastructure as Code (IaC) for Thermtech's websit
 ├── terraform.tfvars.example
 └── README.md
 
-''''
+'''
 ## Prerequisites
 
 - AWS Account with Lightsail enabled
