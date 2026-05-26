@@ -13,7 +13,6 @@ This repository contains the Infrastructure as Code (IaC) for Thermtech's Websit
 ## Project Structure
 
 ```bash
-.
 ├── main.tf                    # Lightsail instance + Static IP
 ├── providers.tf               # AWS Provider
 ├── route53.tf                 # DNS records (Microsoft 365 + sites)
@@ -23,7 +22,7 @@ This repository contains the Infrastructure as Code (IaC) for Thermtech's Websit
 ├── terraform.tfvars.example
 └── README.md
 
-'''
+```
 ## Prerequisites
 
 - AWS Account with Lightsail enabled
